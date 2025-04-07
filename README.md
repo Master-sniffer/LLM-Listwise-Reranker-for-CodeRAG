@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This document presents detailed documentation of a Retrieval-Augmented Generation (RAG) system designed to support natural language queries over software code repositories. The objective of the system is to facilitate intuitive information retrieval by mapping user questions to relevant files in the repository. The `escrcpy` project, a graphical user interface (GUI) for the Android screen mirroring tool `scrcpy`, serves as the primary case study throughout this implementation.
+This readme presents detailed documentation of a Retrieval-Augmented Generation (RAG) system designed to support natural language queries over software code repositories. The objective of the system is to facilitate intuitive information retrieval by mapping user questions to relevant files in the repository. The `escrcpy` project, a graphical user interface (GUI) for the Android screen mirroring tool `scrcpy`, serves as the primary case study throughout this implementation.
 
 ## 2. Datasets, Tools, and Evaluation Metrics
 
