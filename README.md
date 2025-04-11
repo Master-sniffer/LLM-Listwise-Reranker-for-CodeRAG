@@ -155,3 +155,12 @@ To replicate evaluation results:
 2. Execute the notebook without altering default parameters
 3. Recall@10 will be computed and printed at the end of evaluation
 
+### 6.5 Running in kaggle
+
+You could also replicate results by following these steps:
+
+1) open link: https://www.kaggle.com/datasets/mastersniffer/llm-listwise-reranker-for-coderag-jetbrains
+2) Push code - make new notebook
+3) Transfer my notebook (and choose GPU before running)
+4) Push Run All
+
